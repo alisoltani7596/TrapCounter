@@ -79,7 +79,7 @@ Each video is categorized as Low / Medium / High difficulty based on challenge p
 If you use this dataset in your research, please cite:
 
 ```bibtex
-@inproceedings{soltaninezhad2024trapcounter,
+@inproceedings{soltaninezhad2025trapcounter,
   title={TrapCounter: Integrating Detection, Tracking and Optical Flow for the Automatic Counting of Active Fishing Traps},
   author={Soltaninezhad, Ali and Cote, Melissa and Rico Espinosa, Alejandro and Porto Marques, Tunai and Branzan Albu, Alexandra and Paetkau, Justin and Diaz, Vanessa and Lower, Jacob},
   booktitle={Conference on Robots and Vision},
