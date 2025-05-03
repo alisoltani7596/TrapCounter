@@ -39,11 +39,8 @@ DTCFT/
 │   └── annotations/           # COCO-format JSONs
 │
 ├── tracking/
-│   ├── videos/                # 10 anonymized video clips
-│   └── annotations/           # JSONs with bboxes + tracking IDs
-│
-└── counts/
-    └── active_traps_per_video.json
+    ├── videos/                # 10 anonymized video clips
+    └── annotations/           # JSONs with bboxes + tracking IDs
 ```
 
 ---
