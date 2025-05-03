@@ -82,8 +82,8 @@ If you use this dataset in your research, please cite:
 @inproceedings{soltaninezhad2024trapcounter,
   title={TrapCounter: Integrating Detection, Tracking and Optical Flow for the Automatic Counting of Active Fishing Traps},
   author={Soltaninezhad, Ali and Cote, Melissa and Rico Espinosa, Alejandro and Porto Marques, Tunai and Branzan Albu, Alexandra and Paetkau, Justin and Diaz, Vanessa and Lower, Jacob},
-  booktitle={Conference Name},
-  year={2024}
+  booktitle={Conference on Robots and Vision},
+  year={2025}
 }
 ```
 
