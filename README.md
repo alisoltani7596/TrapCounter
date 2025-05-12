@@ -44,9 +44,8 @@ DTCFT/
 │   └── ... (O3 to O10)
 │
 └── tracking/
-    ├── O1/                   # Anonymized video and annotations
-    ├── O2/
-    └── ... (O3 to O10)
+    ├── videos/                   # 10 anonymized video clips
+    ├── annotations/           # JSONs with bboxes + tracking IDs
 ```
 
 ---
