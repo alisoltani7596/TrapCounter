@@ -24,7 +24,6 @@ Alexandra Branzan Albu, Justin Paetkau, Vanessa Diaz, Jacob Lower
 - **Annotations** include:
   - Bounding boxes (COCO format)
   - Unique tracking IDs
-  - Per-frame active trap counts
 - **Environmental diversity**: day/night, occlusion, fog, water droplets, and more
 - **Two vessel types**: Commercial and Survey
 
@@ -45,7 +44,7 @@ DTCFT/
 │
 └── tracking/
     ├── videos/                # 10 anonymized video clips
-    ├── annotations/           # JSONs with bboxes + tracking IDs
+    └── annotations/           # JSONs with bboxes + tracking IDs
 ```
 
 ---
