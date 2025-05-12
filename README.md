@@ -35,12 +35,18 @@ Alexandra Branzan Albu, Justin Paetkau, Vanessa Diaz, Jacob Lower
 ```
 DTCFT/
 ├── detection/
-│   ├── images/                # 3,300 keyframes
-│   └── annotations/           # COCO-format JSONs
+│   ├── O1/
+│   │   ├── images/           # Detection frames
+│   │   └── labels/           # YOLO-format label files
+│   ├── O2/
+│   │   ├── images/
+│   │   └── labels/
+│   └── ... (O3 to O10)
 │
-├── tracking/
-    ├── videos/                # 10 anonymized video clips
-    └── annotations/           # JSONs with bboxes + tracking IDs
+└── tracking/
+    ├── O1/                   # Anonymized video and annotations
+    ├── O2/
+    └── ... (O3 to O10)
 ```
 
 ---
