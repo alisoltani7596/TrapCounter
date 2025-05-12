@@ -1,4 +1,3 @@
-
 # 🪝 DTCFT: Detection, Tracking, and Counting of Fishing Traps Dataset
 
 This repository contains the **DTCFT dataset**, introduced in the paper:
