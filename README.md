@@ -8,7 +8,7 @@ Ali Soltaninezhad, Melissa Cote, Alejandro Rico Espinosa, Tunai Porto Marques,
 Alexandra Branzan Albu, Justin Paetkau, Vanessa Diaz, Jacob Lower  
 *University of Victoria & Archipelago Marine Research*
 
-22nd Conference on Robots and Vision (oral presentation)
+22nd Conference on Robots and Vision (Oral Presentation)
 
 [[📄 Paper]](link-to-paper) | [[📽 Sample Videos]](link-to-videos-if-any)
 
