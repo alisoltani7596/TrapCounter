@@ -75,8 +75,8 @@ Each video is categorized as Low / Medium / High difficulty based on challenge p
 
 ## 📥 Download
 
-The dataset is available for download at:  
-**[http://web.uvic.ca/~mcote/DTCFT/DTCFT.zip](http://web.uvic.ca/~mcote/DTCFT/DTCFT.zip)**
+**The dataset is available for download at:  
+**[DTCFT.zip](http://web.uvic.ca/~mcote/DTCFT/DTCFT.zip)****
 ---
 
 ## 📚 Citation
