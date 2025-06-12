@@ -9,7 +9,7 @@ Alexandra Branzan Albu, Justin Paetkau, Vanessa Diaz, Jacob Lower
 
 22nd Conference on Robots and Vision (Oral Presentation)
 
-[[📄 Paper]]([link-to-paper](https://crv.pubpub.org/pub/y0r9m3dn/release/1)) | [[📽 Sample Videos]](link-to-videos)
+[[📄 Paper]](https://crv.pubpub.org/pub/y0r9m3dn/release/1) | [[📽 Sample Videos]](link-to-videos)
 
 ---
 
